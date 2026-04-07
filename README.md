@@ -3,12 +3,15 @@
 **1.Ejercicio 2:** Punto
 * **Concepto:** Creación de una clase básica con atributos numéricos(x,Y).
 *  Representa coordenadas y realiza operaciones matemáticas simples (como el opuesto) dentro de una clase.
+
 **2.Ejercicio 3:** Composición básica (Línea)
 * **Concepto:** Una clase que usa otras clases como atributos.
 * **Reto:** Mover la línea implica mover ambos puntos simultaneamente.
+
 **3.Ejercicio 4:** Manejo de Strings (Canción)
 * **Concepto:** Getters y Setters para atributos de texto.
 * Controla como acceder y modificar el titulo y el autor.
+
 **4.Ejercicio 5:** Composición Avanzada (Libro + Persona)
 * **Concepo:** Relación entre dos entidades complejas.
 *  **Relación:** Un Libro tiene una Persona como autor.
