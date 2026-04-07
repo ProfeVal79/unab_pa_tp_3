@@ -10,7 +10,7 @@
 
 **3.Ejercicio 4:** Manejo de Strings (Canción)
 * **Concepto:** Getters y Setters para atributos de texto.
-* Controla como acceder y modificar el titulo y el autor.
+* Controla cómo acceder y modificar el titulo y el autor.
 
 **4.Ejercicio 5:** Composición Avanzada (Libro + Persona)
 * **Concepo:** Relación entre dos entidades complejas.
